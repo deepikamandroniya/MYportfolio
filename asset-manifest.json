@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/repository/static/css/main.bf538fe7.css",
+    "main.js": "/repository/static/js/main.cf6169e2.js",
+    "static/media/Deepika_photo.jpg": "/repository/static/media/Deepika_photo.4da94537031eeb80ab5f.jpg",
+    "index.html": "/repository/index.html",
+    "main.bf538fe7.css.map": "/repository/static/css/main.bf538fe7.css.map",
+    "main.cf6169e2.js.map": "/repository/static/js/main.cf6169e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.cf6169e2.js"
+  ]
+}
