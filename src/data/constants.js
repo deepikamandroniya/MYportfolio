@@ -196,6 +196,7 @@ export const Bio = {
       id: 2,
       title: "Weather Forecasting",
       date: "3 Months",
+      image:"https://th.bing.com/th/id/OIP.YpoJf1fu5xZ988oAGmiuqwHaEJ?w=306&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       description:
         "Created a predictive model to forecast weather conditions using live data and evaluated its performance using standard metrics.Developed a system to predict weather parameters such as temperature, humidity, cloud cover,and wind speed for Indore using live data.● Evaluated the model using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE),and visualized the results with graphs and charts.",
       
@@ -208,6 +209,7 @@ export const Bio = {
       id: 2,
       title: "ESP32-CAM Telegram-Controlled Door Lock System",
       date: "3 Months",
+        image:"https://th.bing.com/th/id/OIP.__7GOdLTQ07wjed6SHAERQHaEK?w=323&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       description:
         "Developed an IoT-based smart door lock system using the ESP32-CAM module for remote monitoring and access control.Integrated the ESP32-CAM module with Telegram for remote user interaction.Implemented commands through Telegram to control the door lock system, including remote unlocking via solenoid lock mechanism.",
       
