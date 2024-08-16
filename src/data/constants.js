@@ -181,7 +181,7 @@ export const Bio = {
       title: "Online Mental Health Therapy Platfor",
       date: "3 Months",
          image:
-      "https://www.tangolearn.com/wp-content/uploads/2021/12/best-mental-health.jpg",
+      "https://www.healthnord.com/wp-content/uploads/2023/10/Mental-Health.jpg",
 
       description:
         "Developed a comprehensive web application enabling psychologists to conduct online therapy sessions with efficient scheduling capabilities.Employed agile methodology to ensure iterative progress and timely delivery.● Implemented a design thinking (DT) approach to focus on user-centric solutions and enhance user experience.● Designed and developed a robust working model with seamless database connectivity to manage session scheduling and user data efficiently.",
